@@ -1,6 +1,6 @@
 ﻿=== Wordpress Exit Pop ===
 Contributors: StoreYa
-Tags: woocommerce, storeya, Promotional tool, lead generator, lead generation
+Tags: coupon, ecommerce, woocommerce, woo-commerce, wp-commerce, wp, Rewards, marketing tools, storeya, promotional tool, engagement, wordpress, plugin, coupon, email, deals, discount, sales, widget, token, paypal, leads, lead generator, lead generation, woocommerce plugins, popup, exit, traffic
 Requires at least: 3.0
 Tested up to: 3.8
 Stable tag: trunk

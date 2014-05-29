@@ -127,6 +127,7 @@ Enter Exit Pop script you got from %1$sIncrease your online sales today with Sto
 
                 </div>
               </div>			 
+			  <img src="http://www.storeya.com/widgets/admin?p=WpExitPop"/>
               <?php
         }
         add_action('admin_init', 'sep_settings');
