@@ -52,7 +52,9 @@ function sep_insert()
     global $current_user;
     if (get_option('sepID')) {
             
-        $script = str_replace("\"","\"",get_option('sepID'));
+        $secret_key = get_option('sepID');
+		$sty_script = "<script type=\"text/javascript\"> var headID = document.getElementsByTagName(\"head\")[0]; var newScript = document.createElement('script'); newScript.type = 'text/javascript'; var t = ''; if (document.cookie.indexOf(\"iscm=1\") != -1) { var d = new Date(); t = '&t=' + d.getTime(); } newScript.src = '//www.storeya.com/externalscript/exitpop?id=".$secret_key ."' + t; headID.appendChild(newScript);</script>";
+		$script = str_replace("\"","\"",$sty_script);
         echo $script; 
     }
 }
@@ -108,10 +110,12 @@ function sep_plugin_actions($links, $file)
 ?>
                 <p><label for="sepID"><?php
             printf(__('
-Enter Exit Pop script you got from %1$sIncrease your online sales today with StoreYa!%2$sStoreYa%3$s.', $sep_domain), '<strong><a href="http://www.storeya.com/public/exitpop" target="_blank"  title="', '">', '</a></strong>');
+Enter Exit Pop secret key you got from %1$sIncrease your online sales today with StoreYa!%2$sStoreYa%3$s.', $sep_domain), '<strong><a href="http://www.storeya.com/public/exitpop" target="_blank"  title="', '">', '</a></strong>');
 ?></label></p>
 
-                  <p><textarea rows="11" cols="42" name="sepID" ><?php echo get_option('sepID');?></textarea></p>
+                  <p>
+			
+				  <textarea rows="1" cols="10" name="sepID" ><?php echo get_option('sepID');?></textarea></p>
                     <p class="submit">
                       <input type="submit" class="button-primary" value="<?php
             _e('Save Changes');
