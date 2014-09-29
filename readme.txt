@@ -19,12 +19,16 @@ Our "Exit-Intent” Technology tracks the cursor movements of every visitor in r
 We also offer Statistics to track the growth of your sales with Exit Pop’s statistics panel. Conduct A/B testing in order to check out which offering brings back more visitors to purchase at your store.
 
 Benefits:
+
 - Close sales with instant offers
+
 - No design or coding skills required
+
 - Automated customer acquisition
+
 - Smart A/B Split Testing
 
-Easy to use. Easy to love. Create an Exit Pop for Free!
+Easy to use. Easy to love. Create an Exit Pop for Now!
 
 == Installation ==
 
@@ -42,7 +46,7 @@ Easy to use. Easy to love. Create an Exit Pop for Free!
 
 8. Go to www.storeya.com/public/exitpop
 
-9. If you are not logged in, please click on the "Create a Free Exit Pop Now!" button.
+9. If you are not logged in, please click on the "Create a Free Account!" button.
 
 10. Once you are happy with your Exit Pop customization, copy the code and paste it to the Exit Pop for WP setting screen. 
 
@@ -64,6 +68,23 @@ Easy to use. Easy to love. Create an Exit Pop for Free!
 
 [Exit Pop website](http://www.storeya.com/public/exitpop)  
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
