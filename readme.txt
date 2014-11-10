@@ -11,7 +11,7 @@ Boost sales and increase conversions using targeted offers!
 
 == Description ==
 
-Join StoreYa's +50,000 Happy merchants that use our marketing and sales tools on a daily basis!
+Join StoreYa's +70,000 Happy merchants that use our marketing and sales tools on a daily basis!
 
 98% of your web store visitors abandon your store. 70% of them will NEVER RETURN. Exit Pop will help you convert those visitors into customers a second before they leave your store. Boost your sales by an avg. of 20%. Quick and easy 1 minute set up. Fits any theme - no design or coding skills required!
 Our "Exit-Intent” Technology tracks the cursor movements of every visitor in real-time. This technology detects the precise millisecond when a visitor shows intent of abandoning your site, and encourages them to stay and make a purchase.
@@ -27,6 +27,10 @@ Benefits:
 - Automated customer acquisition
 
 - Smart A/B Split Testing
+
+We offer 14 days of free trial, without asking for a credit card (affordable monthly fee starts at $9.99).
+
+You'll see the boost in sales and leads in the first few days of using this plugin.
 
 Easy to use. Easy to love. Create an Exit Pop for Now!
 
@@ -68,6 +72,13 @@ Easy to use. Easy to love. Create an Exit Pop for Now!
 
 [Exit Pop website](http://www.storeya.com/public/exitpop)  
 
+  
+  
+  
+  
+  
+  
+  
   
   
   
