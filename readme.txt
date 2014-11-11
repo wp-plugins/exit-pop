@@ -29,8 +29,7 @@ Benefits:
 - Smart A/B Split Testing
 
 We offer 14 days of free trial, without asking for a credit card (affordable monthly fee starts at $9.99).
-
-You'll see the boost in sales and leads in the first few days of using this plugin.
+You will also be asked to open a Free StoreYa account. We're positive that you'll see the boost in sales and leads in the first few days of using this plugin.
 
 Easy to use. Easy to love. Create an Exit Pop for Now!
 
