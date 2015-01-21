@@ -51,7 +51,7 @@ Easy to use. Easy to love. Create an Exit Pop for Now!
 
 9. If you are not logged in, please click on the "Create a Free Account!" button.
 
-10. Once you are happy with your Exit Pop customization, copy the code and paste it to the Exit Pop for WP setting screen. 
+10. Once you are happy with your Exit Pop customization, copy the secret key (located at StoreYa) and paste it to the Exit Pop for WP setting screen. 
 
 11. Click 'Save changes'.
 
