@@ -11,10 +11,9 @@ Boost sales and increase conversions using targeted offers!
 
 == Description ==
 
-Join StoreYa's +70,000 Happy merchants that use our marketing and sales tools on a daily basis!
+Join StoreYa's +100,000 Happy merchants that use our marketing and sales tools on a daily basis!
 
-98% of your web store visitors abandon your store. 70% of them will NEVER RETURN. Exit Pop will help you convert those visitors into customers a second before they leave your store. Boost your sales by an avg. of 20%. Quick and easy 1 minute set up. Fits any theme - no design or coding skills required!
-Our "Exit-Intent” Technology tracks the cursor movements of every visitor in real-time. This technology detects the precise millisecond when a visitor shows intent of abandoning your site, and encourages them to stay and make a purchase.
+98% of your web store visitors abandon your store, 70% of them will NEVER RETURN. Exit Pop will help you convert those visitors into customers a second before they leave your store. This tool has the power to double your sales! Quick and easy 1 minute set up, fits any theme - no design or coding skills required! Our "Exit-Intent” Technology tracks the cursor movements of every visitor in real-time. This technology detects the precise millisecond when a visitor shows intent of abandoning your site, and encourages them to stay and make a purchase
 
 We also offer Statistics to track the growth of your sales with Exit Pop’s statistics panel. Conduct A/B testing in order to check out which offering brings back more visitors to purchase at your store.
 
