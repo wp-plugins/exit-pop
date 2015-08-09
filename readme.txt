@@ -2,7 +2,7 @@
 Contributors: StoreYa
 Tags: coupon, ecommerce, woocommerce, woo-commerce, wp-commerce, wp, Rewards, marketing tools, storeya, promotional tool, engagement, wordpress, plugin, coupon, email, deals, discount, sales, widget, token, paypal, leads, lead generator, lead generation, woocommerce plugins, popup, exit, traffic
 Requires at least: 3.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
